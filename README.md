@@ -17,8 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@taqsiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@taqsiy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yahya taqsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yahya taqsi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18016020/buda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yahya taqsi" height="30" width="40" /></a>
 <a href="https://fb.com/B0UDHAA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yahya taqsi" height="30" width="40" /></a>
 <a href="https://instagram.com/yahya_taqsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yahya_taqsi" height="30" width="40" /></a>
 </p>
